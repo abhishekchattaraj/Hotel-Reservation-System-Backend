@@ -1,2 +1,19 @@
 # Hotel-Reservation-System_Backend
-This is the Backend of Hotel Reservation System made using Java, Spring Boot, MySql, etc.
+The backend of the Hotel Reservation System is developed using Java and Spring Boot, with data storage managed through MySQL. This component provides a robust foundation for the system's functionality, including secure user authentication, JWT-based authorization, and RESTful APIs for seamless communication with the frontend.
+
+Key Features:
+User Authentication and Authorization: Utilizes JWT-based authentication for secure user login and logout processes, ensuring data integrity.
+
+RESTful APIs: Implements a set of RESTful APIs to facilitate communication with the frontend, enabling smooth data flow and real-time updates.
+
+Database Management: Utilizes MySQL to efficiently store and retrieve hotel information, user details, and reservation data.
+
+Scalable Architecture: Designed with a modular and scalable architecture to accommodate future enhancements and feature additions.
+
+Getting Started:
+Clone the backend repository.
+Set up the required environment, including Java, Spring Boot, and MySQL.
+Configure the application properties to connect to the MySQL database.
+Run the backend application to start handling hotel reservations.
+Contribution:
+Contributions to the backend are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
