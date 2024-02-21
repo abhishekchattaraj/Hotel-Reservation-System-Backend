@@ -1,8 +1,8 @@
 # Hotel-Reservation-System_Backend
 The backend of the Hotel Reservation System is developed using Java and Spring Boot, with data storage managed through MySQL. This component provides a robust foundation for the system's functionality, including secure user authentication, JWT-based authorization, and RESTful APIs for seamless communication with the frontend.
 
-Key Features:
-User Authentication and Authorization: Utilizes JWT-based authentication for secure user login and logout processes, ensuring data integrity.
+## Key Features:
+* __User Authentication and Authorization:__ Utilizes JWT-based authentication for secure user login and logout processes, ensuring data integrity.
 
 RESTful APIs: Implements a set of RESTful APIs to facilitate communication with the frontend, enabling smooth data flow and real-time updates.
 
