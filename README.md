@@ -10,10 +10,10 @@ The backend of the Hotel Reservation System is developed using Java and Spring B
 
 * __Scalable Architecture:__ Designed with a modular and scalable architecture to accommodate future enhancements and feature additions.
 
-### Getting Started:
-Clone the backend repository.
-Set up the required environment, including Java, Spring Boot, and MySQL.
-Configure the application properties to connect to the MySQL database.
-Run the backend application to start handling hotel reservations.
-#### Contribution:
+## Getting Started:
+* Clone the backend repository.
+* Set up the required environment, including Java, Spring Boot, and MySQL.
+* Configure the application properties to connect to the MySQL database.
+* Run the backend application to start handling hotel reservations.
+## Contribution:
 Contributions to the backend are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
